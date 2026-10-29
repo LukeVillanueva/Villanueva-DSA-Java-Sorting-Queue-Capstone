@@ -144,6 +144,9 @@ The Hospital Queuing System demonstrates the use of Java collections, queues, in
 **Viewing Queue**
 <img width="762" height="133" alt="image" src="https://github.com/user-attachments/assets/d6886a54-d13d-4f8f-b8cd-d2850cc2ec86" />
 
+**Dequeue** 
+<img width="411" height="128" alt="image" src="https://github.com/user-attachments/assets/05854d3a-092a-40bf-bfa1-09055fd45952" />
+
 
 
 
