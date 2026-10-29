@@ -120,9 +120,30 @@ The system records a patient's status as Being Served but does not provide a sep
 
 Project Structure
 
-HospitalQueuingSystem/
-└── HospitalQueue.java
+HospitalQueuingSystem/HospitalQueue.java
 
 **Conclusion**
 
 The Hospital Queuing System demonstrates the use of Java collections, queues, input validation, searching, and procedural programming. It provides a simple way to organize patient records and manage waiting lines according to medical priority while maintaining FIFO order within each priority group.
+
+## Screen Shots
+
+
+**Main Menu** 
+<img width="431" height="296" alt="image" src="https://github.com/user-attachments/assets/1aeba504-a16d-4bc4-9fea-9541efaa8297" />
+
+**Bubble Sort**
+ <img width="532" height="195" alt="image" src="https://github.com/user-attachments/assets/25185781-5450-4fdf-872b-1893f68d2631" />
+
+**Insert Sort** 
+<img width="785" height="280" alt="image" src="https://github.com/user-attachments/assets/0b6da91e-b156-424d-936d-9e1bf17a620c" /> 
+
+**Adding Queue** 
+<img width="392" height="333" alt="image" src="https://github.com/user-attachments/assets/cf4e6e4f-3583-42ba-9594-9445a8244fff" />
+
+**Viewing Queue**
+<img width="762" height="133" alt="image" src="https://github.com/user-attachments/assets/d6886a54-d13d-4f8f-b8cd-d2850cc2ec86" />
+
+
+
+
